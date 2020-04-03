@@ -1,4 +1,4 @@
-kw = ['Berlin','Oslo','Spoiler','La Casa de papel','La Casa De Papel','Season-4','Season 4','LCDP','Tokio', 'Tokyo','Nairobi','Raquel Murillo','Rio','Monica','Denver','Arturo Roman','Alicia Sierra','Marsella', 'Professor', 'Money Heist','La casa de papel','La casa de Papel','La casa de papel Spoiler','Money Heist Season-4', 'Money Heist Spoiler', 'death', 'DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED']
+kw = ['Berlin','Oslo','Spoiler','La Casa de papel','#MoneyHeist','#MoneyHeist4','#LaCasaDePapel4','La Casa De Papel','Season-4','Season 4','LCDP','Tokio', 'Tokyo','Nairobi','Raquel Murillo','Rio','Monica','Denver','Arturo Roman','Alicia Sierra','Marsella', 'Professor', 'Money Heist','La casa de papel','La casa de Papel','La casa de papel Spoiler','Money Heist Season-4', 'Money Heist Spoiler', 'death', 'DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED']
 tags = "SPANEMBIULOLI";
 total = 0;
 

@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Hide GoT Spoilers",
-  "description": "Trying to save you from Game Of Thrones Spoiler.",
+  "name": "Hide Spoilers",
+  "description": "Trying to save you from Spoiler.",
   "version": "1.2",
   "icons": { 
           "96": "bella-ciao.png" },
